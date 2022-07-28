@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 test4
 增加branch01
+又切换到branch01了
